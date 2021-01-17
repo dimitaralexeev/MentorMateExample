@@ -6,8 +6,8 @@ import java.util.Scanner;
 
 public class Bricks {
 
-	private int N; //	field, which store height
-	private int M; //	field, which store weight
+	private int N; //	field, which stores height
+	private int M; //	field, which stores weight
 	private int[][] firstLayer; //	multidimensional array for the first layer of the wall
 	private int[][] secondLayer; //	multidimensional array for the result layer of the wall
 	
